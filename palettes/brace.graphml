@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <!--Created by yEd 3.13-->
+  <key for="port" id="d0" yfiles.type="portgraphics"/>
+  <key for="port" id="d1" yfiles.type="portgeometry"/>
+  <key for="port" id="d2" yfiles.type="portuserdata"/>
+  <key attr.name="yed.palette.node.name" attr.type="string" for="node" id="d3"/>
+  <key attr.name="Palette ToolTip" attr.type="string" for="node" id="d4"/>
+  <key attr.name="url" attr.type="string" for="node" id="d5"/>
+  <key attr.name="description" attr.type="string" for="node" id="d6"/>
+  <key for="node" id="d7" yfiles.type="nodegraphics"/>
+  <key for="graphml" id="d8" yfiles.type="resources"/>
+  <key attr.name="yed.palette.edge.name" attr.type="string" for="edge" id="d9"/>
+  <key attr.name="Palette ToolTip" attr.type="string" for="edge" id="d10"/>
+  <key attr.name="url" attr.type="string" for="edge" id="d11"/>
+  <key attr.name="description" attr.type="string" for="edge" id="d12"/>
+  <key for="edge" id="d13" yfiles.type="edgegraphics"/>
+  <graph edgedefault="directed" id="G">
+    <node id="n0">
+      <data key="d3"><![CDATA[9d3d620a-5011-4231-adb8-41c54ac5a29b]]></data>
+      <data key="d4"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="166.0" width="45.20000076293945" x="0.0" y="247.0"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="sandwich" modelPosition="s" textColor="#000000" visible="true" width="4.0" x="20.600000381469727" y="170.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="1"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n1">
+      <data key="d3"><![CDATA[837224d5-ac77-4357-a596-9f69ad863997]]></data>
+      <data key="d4"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="45.20000457763672" width="166.00001525878906" x="75.20000076293945" y="307.39999771118164"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="sandwich" modelPosition="s" textColor="#000000" visible="true" width="4.0" x="81.00000762939453" y="49.20000457763672"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="2"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n2">
+      <data key="d3"><![CDATA[fd32dcf2-135f-47a2-a901-8a9c3e1ab8f2]]></data>
+      <data key="d4"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="166.0" width="45.20000076293945" x="271.2000160217285" y="247.0"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="sandwich" modelPosition="s" textColor="#000000" visible="true" width="4.0" x="20.600000381469727" y="170.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="3"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n3">
+      <data key="d3"><![CDATA[51247012-6afb-4403-bbbe-d31222bcb2f1]]></data>
+      <data key="d4"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="45.200050354003906" width="166.00018310546875" x="346.40001678466797" y="307.39997482299805"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="sandwich" modelPosition="s" textColor="#000000" visible="true" width="4.0" x="81.00009155273438" y="49.200050354003906"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="4"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n4">
+      <data key="d3"><![CDATA[7fa3751a-f94d-42dc-8fa8-6e1a0c4b6545]]></data>
+      <data key="d4"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="600.0" width="500.0" x="542.4001998901367" y="30.0"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="sandwich" modelPosition="s" textColor="#000000" visible="true" width="4.0" x="248.0" y="604.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="5"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n5">
+      <data key="d3"><![CDATA[a131b0b3-c543-452d-95a7-4f25a34d2cd4]]></data>
+      <data key="d4"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="500.0" width="600.0" x="0.0" y="660.0"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="sandwich" modelPosition="s" textColor="#000000" visible="true" width="4.0" x="298.0" y="504.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="6"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+  </graph>
+  <data key="d8">
+    <y:Resources>
+      <y:Resource id="1">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!-- Generator: Adobe Illustrator 11.0, SVG Export Plug-In . SVG Version: 6.0.0 Build 78)  --&gt;
+&lt;!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"    "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+	&lt;!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/"&gt;
+	&lt;!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/"&gt;
+	&lt;!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/"&gt;
+	&lt;!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/"&gt;
+	&lt;!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/"&gt;
+	&lt;!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/"&gt;
+	&lt;!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/"&gt;
+	&lt;!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/"&gt;
+	&lt;!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/"&gt;
+	&lt;!ENTITY ns_svg "http://www.w3.org/2000/svg"&gt;
+	&lt;!ENTITY ns_xlink "http://www.w3.org/1999/xlink"&gt;
+]&gt;
+&lt;svg 
+	 xmlns:x="&amp;ns_extend;" xmlns:i="&amp;ns_ai;" xmlns:graph="&amp;ns_graphs;" i:viewOrigin="247.6001 506.4004" i:rulerOrigin="-8 24.8896" i:pageBounds="8 817 603.2754 -24.8896" i:viewBoxInterpretation="asCropBox"
+	 xmlns="&amp;ns_svg;" xmlns:xlink="&amp;ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 width="46.667" height="167.666" viewBox="-0.6 -0.6 46.667 167.666" enable-background="new -0.6 -0.6 46.667 167.666"
+	 xml:space="preserve"&gt;
+	&lt;metadata&gt;
+		&lt;variableSets  xmlns="&amp;ns_vars;"&gt;
+			&lt;variableSet  varSetName="binding1" locked="none"&gt;
+				&lt;variables&gt;&lt;/variables&gt;
+				&lt;v:sampleDataSets  xmlns="&amp;ns_custom;" xmlns:v="&amp;ns_vars;"&gt;&lt;/v:sampleDataSets&gt;
+			&lt;/variableSet&gt;
+		&lt;/variableSets&gt;
+		&lt;sfw  xmlns="&amp;ns_sfw;"&gt;
+			&lt;slices&gt;&lt;/slices&gt;
+			&lt;sliceSourceBounds  x="210" y="54.523" width="119.998" height="475.477" bottomLeftOrigin="true"&gt;&lt;/sliceSourceBounds&gt;
+		&lt;/sfw&gt;
+&lt;?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?&gt;&lt;x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='XMP toolkit 3.0-29, framework 1.6'&gt;
+&lt;rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:iX='http://ns.adobe.com/iX/1.0/'&gt;
+
+ &lt;rdf:Description rdf:about=''
+  xmlns:pdf='http://ns.adobe.com/pdf/1.3/'&gt;
+ &lt;/rdf:Description&gt;
+
+ &lt;rdf:Description rdf:about=''
+  xmlns:tiff='http://ns.adobe.com/tiff/1.0/'&gt;
+ &lt;/rdf:Description&gt;
+
+ &lt;rdf:Description rdf:about=''
+  xmlns:xap='http://ns.adobe.com/xap/1.0/'
+  xmlns:xapGImg='http://ns.adobe.com/xap/1.0/g/img/'&gt;
+  &lt;xap:CreateDate&gt;2006-10-15T04:46:54Z&lt;/xap:CreateDate&gt;
+  &lt;xap:ModifyDate&gt;2006-10-15T04:46:54Z&lt;/xap:ModifyDate&gt;
+  &lt;xap:CreatorTool&gt;Illustrator&lt;/xap:CreatorTool&gt;
+  &lt;xap:Thumbnails&gt;
+   &lt;rdf:Alt&gt;
+    &lt;rdf:li rdf:parseType='Resource'&gt;
+     &lt;xapGImg:format&gt;JPEG&lt;/xapGImg:format&gt;
+     &lt;xapGImg:width&gt;68&lt;/xapGImg:width&gt;
+     &lt;xapGImg:height&gt;256&lt;/xapGImg:height&gt;
+     &lt;xapGImg:image&gt;/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&amp;#xA;AQBIAAAAAQAB/+4ADkFkb2JlAGTAAAAAAf/bAIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoK&amp;#xA;DBAMDAwMDAwQDA4PEA8ODBMTFBQTExwbGxscHx8fHx8fHx8fHwEHBwcNDA0YEBAYGhURFRofHx8f&amp;#xA;Hx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8f/8AAEQgBAABEAwER&amp;#xA;AAIRAQMRAf/EAaIAAAAHAQEBAQEAAAAAAAAAAAQFAwIGAQAHCAkKCwEAAgIDAQEBAQEAAAAAAAAA&amp;#xA;AQACAwQFBgcICQoLEAACAQMDAgQCBgcDBAIGAnMBAgMRBAAFIRIxQVEGE2EicYEUMpGhBxWxQiPB&amp;#xA;UtHhMxZi8CRygvElQzRTkqKyY3PCNUQnk6OzNhdUZHTD0uIIJoMJChgZhJRFRqS0VtNVKBry4/PE&amp;#xA;1OT0ZXWFlaW1xdXl9WZ2hpamtsbW5vY3R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo+Ck5SVlpeYmZ&amp;#xA;qbnJ2en5KjpKWmp6ipqqusra6voRAAICAQIDBQUEBQYECAMDbQEAAhEDBCESMUEFURNhIgZxgZEy&amp;#xA;obHwFMHR4SNCFVJicvEzJDRDghaSUyWiY7LCB3PSNeJEgxdUkwgJChgZJjZFGidkdFU38qOzwygp&amp;#xA;0+PzhJSktMTU5PRldYWVpbXF1eX1RlZmdoaWprbG1ub2R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo&amp;#xA;+DlJWWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+v/aAAwDAQACEQMRAD8A9U4q7FXYq7FXYq7FXYq7&amp;#xA;FXYq7FXYql+sXurWkSy6fpv6T+16sKTJDLsPh4erxjap68nWnvirz+P/AJyH8j2nmAeXvNFvqHlL&amp;#xA;VzTjFrEKxwty2DJcQvPEYyQQJCwXbrir06OSOWNZI2DxuAyOpBVlIqCCOoOKrsVdirsVdirsVdir&amp;#xA;sVeN/wDOVfkmx1/8q77VTEv6U8vlby0noOfpcgk8fLrxMbcqeKjFUo/5w6853utfl7eaJeytNL5e&amp;#xA;uVitnYkkWs6l4kqf5HWQDwWg7Yq97xV2KuxV2KuxV2KuxVhX51/+Sj83/wDbKuv+TRxV4V/zgx/0&amp;#xA;23/br/7HMVfVWKuxV2KuxV2KuxV2KsK/Ov8A8lH5v/7ZV1/yaOKvCv8AnBj/AKbb/t1/9jmKvqrF&amp;#xA;XYq7FXYq7FXYq7FWGfnQjv8AlJ5vCAsRpN2xA8FhYk/QBirwf/nBl0D+dYyRzYaYyr3IX62Cfo5D&amp;#xA;FX1XirsVdirsVdirsVdiqC1zSbbWdF1DSLr/AHl1G2mtJ6UJ9OeMxt19mxV8hfklqF3+Sv5uaj5a&amp;#xA;88J+jrHVovqyalJVbZmiflb3CyHYxOCyk/slvipRqKvseGaGeJJoZFlhkUNHIhDKykVBUjYg4qvx&amp;#xA;V2KuxV2KuxV2KrZpYoYnmlcRxRqXkdjRVVRUkk9gMVfJ+o/mF5q/P/zzL5H8vLbaZ5NhDzXV5cW0&amp;#xA;VxcG2jYI09ZVf03dnHprHxYV3brir6D/AC5/Kzyt+X+nGx0E3bLIAJpLq5ll5kb8vSqIEPukYxVl&amp;#xA;+KuxV2KuxV2KuxViP5v3ctp+Vfm6eI0kXSL1VYGhBeBlqCO4rXFXz5/zg3aI195xuzTnDFYRLtvS&amp;#xA;Vrhjv/zyGKvrHFXYq7FXYq7FXYq7FWFfnX/5KPzf/wBsq6/5NHFXhX/ODH/Tbf8Abr/7HMVfVWKu&amp;#xA;xV2KuxV2KuxV2KsK/Ov/AMlH5v8A+2Vdf8mjirwr/nBj/ptv+3X/ANjmKvqrFXYq7FXYq7FXYq7F&amp;#xA;Xnn/ADkFqtvpn5N+aZp2AE1mbSMHqXuWWFQPH7dcVeT/APOD+kXMOheatXZSLe9ubW1ibsWtY5He&amp;#xA;n0XS4q+m8VdirsVdirsVdiqXa1q1zp0KvbaXd6rK9QtvZ+gGqP5muJYI1r7tirxL8xPy6/OH83by&amp;#xA;10/WY7Xyb5OtJRN9UM63t7NJQqJJBAfRJVSeK86LU7tir2PyX5O0Pyd5as/L2iRGKwslIUseUjux&amp;#xA;5PJI3dnYkn7hQUGKp3irsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirs&amp;#xA;VdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsV&amp;#xA;dirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVd&amp;#xA;irsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdi&amp;#xA;rsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdir&amp;#xA;sVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdir/&amp;#xA;AP/Z&lt;/xapGImg:image&gt;
+    &lt;/rdf:li&gt;
+   &lt;/rdf:Alt&gt;
+  &lt;/xap:Thumbnails&gt;
+ &lt;/rdf:Description&gt;
+
+ &lt;rdf:Description rdf:about=''
+  xmlns:dc='http://purl.org/dc/elements/1.1/'&gt;
+  &lt;dc:format&gt;image/svg+xml&lt;/dc:format&gt;
+ &lt;/rdf:Description&gt;
+
+&lt;/rdf:RDF&gt;
+&lt;/x:xmpmeta&gt;
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &lt;?xpacket end='w'?&gt;
+			&lt;/metadata&gt;
+		&lt;g id="image" i:layer="yes" i:dimmedPercent="3" i:rgbTrio="#4F008000FFFF"&gt;
+			&lt;switch i:objectNS="&amp;ns_flows;" i:objectType="pointText" display="none"&gt;
+				&lt;foreignObject requiredExtensions="&amp;ns_flows;" x="0" y="0" width="1" height="1" display="inline" overflow="visible"&gt;
+					&lt;flowDef  xmlns="&amp;ns_flows;"&gt;
+						&lt;region  textMatrix="1 0 0 1 0 0"&gt;
+							&lt;path d="M-37.6,148.4"/&gt;
+						&lt;/region&gt;
+						&lt;flow  xmlns="&amp;ns_flows;"  font-family="'LetterGothicStd'" font-size="200"&gt;
+							&lt;p&gt;&lt;span&gt;}&lt;/span&gt;&lt;/p&gt;
+							&lt;p&gt;&lt;/p&gt;
+						&lt;/flow&gt;
+					&lt;/flowDef&gt;
+					&lt;x:targetRef  xlink:href="#XMLID_1_" /&gt;
+				&lt;/foreignObject&gt;
+				&lt;text id="XMLID_1_" transform="matrix(1 0 0 1 -37.6001 148.4004)" display="inline"&gt;&lt;tspan x="0" y="0" font-family="'LetterGothicStd'" font-size="200"&gt;}&lt;/tspan&gt;&lt;/text&gt;
+			&lt;/switch&gt;
+			&lt;g id="raster" i:knockout="Off"&gt;
+				&lt;path i:knockout="Off" d="M19.8,25.8C19.8,11.2,15.6,2.2,0,0.4L0.4,0C23,0.4,29.2,7.2,29.2,29v30.2c0,13.4,1.4,19.8,16,23.4V83
+					c-14.4,3.6-16,10-16,23.2v32.2c0,21-7.8,27-28.8,27.6L0,165.601c16-2.4,19.8-10.4,19.8-25.601v-32.2c0-13.6,1.8-21.4,16.8-24.8
+					v-0.4C21.4,79,19.8,70.6,19.8,57V25.8z"/&gt;
+			&lt;/g&gt;
+		&lt;/g&gt;
+	&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="2">&lt;?xml version="1.0" encoding="UTF-8" standalone="no"?&gt;
+&lt;!-- Generator: Adobe Illustrator 11.0, SVG Export Plug-In . SVG Version: 6.0.0 Build 78)  --&gt;
+&lt;svg:svg
+   xmlns:ns2="http://ns.adobe.com/Extensibility/1.0/"
+   xmlns:ns1="http://ns.adobe.com/Flows/1.0/"
+   xmlns:xapGImg="http://ns.adobe.com/xap/1.0/g/img/"
+   xmlns:xap="http://ns.adobe.com/xap/1.0/"
+   xmlns:ns0="http://ns.adobe.com/SaveForWeb/1.0/"
+   xmlns:ns="http://ns.adobe.com/Variables/1.0/"
+   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   xmlns:x="adobe:ns:meta/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   i:viewOrigin="247.6001 506.4004"
+   i:rulerOrigin="-8 24.8896"
+   i:pageBounds="8 817 603.2754 -24.8896"
+   i:viewBoxInterpretation="asCropBox"
+   width="167.67"
+   height="46.669998"
+   viewBox="-0.6 -0.6 46.667 167.666"
+   enable-background="new -0.6 -0.6 46.667 167.666"
+   xml:space="preserve"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45"
+   sodipodi:docname="GullBrace.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:docbase="G:\Documents and Settings\Jesse\Desktop"
+   sodipodi:modified="true"
+   version="1.0"&gt;&lt;svg:defs
+   id="defs18" /&gt;&lt;sodipodi:namedview
+   inkscape:window-height="998"
+   inkscape:window-width="1280"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   guidetolerance="10.0"
+   gridtolerance="10.0"
+   objecttolerance="10.0"
+   borderopacity="1.0"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   id="base"
+   inkscape:zoom="2.2485179"
+   inkscape:cx="23.3335"
+   inkscape:cy="88.280374"
+   inkscape:window-x="1280"
+   inkscape:window-y="0"
+   inkscape:current-layer="svg2"
+   width="167.67px"
+   height="46.67px" /&gt;
+	&lt;svg:metadata
+   id="metadata4"&gt;
+		&lt;ns:variableSets&gt;
+			&lt;ns:variableSet
+   varSetName="binding1"
+   locked="none"&gt;
+				&lt;ns:variables /&gt;
+				&lt;ns:sampleDataSets /&gt;
+			&lt;/ns:variableSet&gt;
+		&lt;/ns:variableSets&gt;
+		&lt;ns0:sfw&gt;
+			&lt;ns0:slices /&gt;
+			&lt;ns0:sliceSourceBounds
+   x="210"
+   y="54.523"
+   width="119.998"
+   height="475.477"
+   bottomLeftOrigin="true" /&gt;
+		&lt;/ns0:sfw&gt;
+&lt;xpacket /&gt;&lt;x:xmpmeta
+   x:xmptk="XMP toolkit 3.0-29, framework 1.6"&gt;
+
+&lt;svg:metadata
+   id="metadata20"&gt;&lt;rdf:RDF&gt;
+
+ &lt;rdf:Description
+   rdf:about=""&gt;
+ &lt;/rdf:Description&gt;
+
+ &lt;rdf:Description
+   rdf:about=""&gt;
+ &lt;/rdf:Description&gt;
+
+ &lt;rdf:Description
+   rdf:about=""&gt;
+  &lt;xap:CreateDate&gt;2006-10-15T04:46:54Z&lt;/xap:CreateDate&gt;
+  &lt;xap:ModifyDate&gt;2006-10-15T04:46:54Z&lt;/xap:ModifyDate&gt;
+  &lt;xap:CreatorTool&gt;Illustrator&lt;/xap:CreatorTool&gt;
+  &lt;xap:Thumbnails&gt;
+   &lt;rdf:Alt&gt;
+    &lt;rdf:li
+   rdf:parseType="Resource"&gt;
+     &lt;xapGImg:format&gt;JPEG&lt;/xapGImg:format&gt;
+     &lt;xapGImg:width&gt;68&lt;/xapGImg:width&gt;
+     &lt;xapGImg:height&gt;256&lt;/xapGImg:height&gt;
+     &lt;xapGImg:image&gt;/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA
+AQBIAAAAAQAB/+4ADkFkb2JlAGTAAAAAAf/bAIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoK
+DBAMDAwMDAwQDA4PEA8ODBMTFBQTExwbGxscHx8fHx8fHx8fHwEHBwcNDA0YEBAYGhURFRofHx8f
+Hx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8f/8AAEQgBAABEAwER
+AAIRAQMRAf/EAaIAAAAHAQEBAQEAAAAAAAAAAAQFAwIGAQAHCAkKCwEAAgIDAQEBAQEAAAAAAAAA
+AQACAwQFBgcICQoLEAACAQMDAgQCBgcDBAIGAnMBAgMRBAAFIRIxQVEGE2EicYEUMpGhBxWxQiPB
+UtHhMxZi8CRygvElQzRTkqKyY3PCNUQnk6OzNhdUZHTD0uIIJoMJChgZhJRFRqS0VtNVKBry4/PE
+1OT0ZXWFlaW1xdXl9WZ2hpamtsbW5vY3R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo+Ck5SVlpeYmZ
+qbnJ2en5KjpKWmp6ipqqusra6voRAAICAQIDBQUEBQYECAMDbQEAAhEDBCESMUEFURNhIgZxgZEy
+obHwFMHR4SNCFVJicvEzJDRDghaSUyWiY7LCB3PSNeJEgxdUkwgJChgZJjZFGidkdFU38qOzwygp
+0+PzhJSktMTU5PRldYWVpbXF1eX1RlZmdoaWprbG1ub2R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo
++DlJWWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+v/aAAwDAQACEQMRAD8A9U4q7FXYq7FXYq7FXYq7
+FXYq7FXYql+sXurWkSy6fpv6T+16sKTJDLsPh4erxjap68nWnvirz+P/AJyH8j2nmAeXvNFvqHlL
+VzTjFrEKxwty2DJcQvPEYyQQJCwXbrir06OSOWNZI2DxuAyOpBVlIqCCOoOKrsVdirsVdirsVdir
+sVeN/wDOVfkmx1/8q77VTEv6U8vlby0noOfpcgk8fLrxMbcqeKjFUo/5w6853utfl7eaJeytNL5e
+uVitnYkkWs6l4kqf5HWQDwWg7Yq97xV2KuxV2KuxV2KuxVhX51/+Sj83/wDbKuv+TRxV4V/zgx/0
+23/br/7HMVfVWKuxV2KuxV2KuxV2KsK/Ov8A8lH5v/7ZV1/yaOKvCv8AnBj/AKbb/t1/9jmKvqrF
+XYq7FXYq7FXYq7FWGfnQjv8AlJ5vCAsRpN2xA8FhYk/QBirwf/nBl0D+dYyRzYaYyr3IX62Cfo5D
+FX1XirsVdirsVdirsVdiqC1zSbbWdF1DSLr/AHl1G2mtJ6UJ9OeMxt19mxV8hfklqF3+Sv5uaj5a
+88J+jrHVovqyalJVbZmiflb3CyHYxOCyk/slvipRqKvseGaGeJJoZFlhkUNHIhDKykVBUjYg4qvx
+V2KuxV2KuxV2KrZpYoYnmlcRxRqXkdjRVVRUkk9gMVfJ+o/mF5q/P/zzL5H8vLbaZ5NhDzXV5cW0
+VxcG2jYI09ZVf03dnHprHxYV3brir6D/AC5/Kzyt+X+nGx0E3bLIAJpLq5ll5kb8vSqIEPukYxVl
++KuxV2KuxV2KuxViP5v3ctp+Vfm6eI0kXSL1VYGhBeBlqCO4rXFXz5/zg3aI195xuzTnDFYRLtvS
+Vrhjv/zyGKvrHFXYq7FXYq7FXYq7FWFfnX/5KPzf/wBsq6/5NHFXhX/ODH/Tbf8Abr/7HMVfVWKu
+xV2KuxV2KuxV2KsK/Ov/AMlH5v8A+2Vdf8mjirwr/nBj/ptv+3X/ANjmKvqrFXYq7FXYq7FXYq7F
+Xnn/ADkFqtvpn5N+aZp2AE1mbSMHqXuWWFQPH7dcVeT/APOD+kXMOheatXZSLe9ubW1ibsWtY5He
+n0XS4q+m8VdirsVdirsVdiqXa1q1zp0KvbaXd6rK9QtvZ+gGqP5muJYI1r7tirxL8xPy6/OH83by
+10/WY7Xyb5OtJRN9UM63t7NJQqJJBAfRJVSeK86LU7tir2PyX5O0Pyd5as/L2iRGKwslIUseUjux
+5PJI3dnYkn7hQUGKp3irsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirs
+VdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsV
+dirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVd
+irsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdi
+rsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdir
+sVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdir/
+AP/Z&lt;/xapGImg:image&gt;
+    &lt;/rdf:li&gt;
+   &lt;/rdf:Alt&gt;
+  &lt;/xap:Thumbnails&gt;
+ &lt;/rdf:Description&gt;
+
+ &lt;rdf:Description
+   rdf:about=""&gt;
+  &lt;dc:format&gt;image/svg+xml&lt;/dc:format&gt;
+ &lt;/rdf:Description&gt;
+
+&lt;cc:Work
+   rdf:about=""&gt;&lt;dc:format&gt;image/svg+xml&lt;/dc:format&gt;&lt;dc:type
+     rdf:resource="http://purl.org/dc/dcmitype/StillImage" /&gt;&lt;/cc:Work&gt;&lt;/rdf:RDF&gt;&lt;/svg:metadata&gt;&lt;/x:xmpmeta&gt;
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &lt;xpacket /&gt;
+			&lt;/svg:metadata&gt;
+		
+	&lt;svg:g
+   id="image"
+   i:layer="yes"
+   i:dimmedPercent="3"
+   i:rgbTrio="#4F008000FFFF"
+   transform="matrix(0,3.5925864,3.5925864,0,-273.91392,1.371473)"&gt;
+			&lt;svg:switch
+   i:objectNS="http://ns.adobe.com/Flows/1.0/"
+   i:objectType="pointText"
+   display="none"
+   id="switch7"
+   style="display:none"&gt;
+				&lt;svg:foreignObject
+   requiredExtensions="http://ns.adobe.com/Flows/1.0/"
+   x="0"
+   y="0"
+   width="1"
+   height="1"
+   display="inline"
+   overflow="visible"
+   id="foreignObject9"&gt;
+					&lt;ns1:flowDef&gt;
+						&lt;ns1:region
+   textMatrix="1 0 0 1 0 0"&gt;
+							&lt;ns1:path
+   d="M-37.6,148.4" /&gt;
+						&lt;/ns1:region&gt;
+						&lt;ns1:flow
+   font-family="'LetterGothicStd'"
+   font-size="200"&gt;
+							&lt;ns1:p&gt;&lt;ns1:span&gt;}&lt;/ns1:span&gt;&lt;/ns1:p&gt;
+							&lt;ns1:p /&gt;
+						&lt;/ns1:flow&gt;
+					&lt;/ns1:flowDef&gt;
+					&lt;ns2:targetRef
+   xlink:href="#XMLID_1_" /&gt;
+				&lt;/svg:foreignObject&gt;
+				&lt;svg:text
+   id="XMLID_1_"
+   transform="translate(-37.6001,148.4004)"
+   display="inline"
+   style="display:inline"&gt;&lt;svg:tspan
+     x="0"
+     y="0"
+     font-size="200"
+     id="tspan12"
+     style="font-size:200px;font-family:LetterGothicStd"&gt;}&lt;/svg:tspan&gt;&lt;/svg:text&gt;
+
+
+			&lt;/svg:switch&gt;
+			&lt;svg:g
+   id="raster"
+   i:knockout="Off"&gt;
+				&lt;svg:path
+   i:knockout="Off"
+   d="M 19.8,25.8 C 19.8,11.2 15.6,2.2 0,0.4 L 0.4,0 C 23,0.4 29.2,7.2 29.2,29 L 29.2,59.2 C 29.2,72.6 30.6,79 45.2,82.6 L 45.2,83 C 30.8,86.6 29.2,93 29.2,106.2 L 29.2,138.4 C 29.2,159.4 21.4,165.4 0.4,166 L 0,165.601 C 16,163.201 19.8,155.201 19.8,140 L 19.8,107.8 C 19.8,94.2 21.6,86.4 36.6,83 L 36.6,82.6 C 21.4,79 19.8,70.6 19.8,57 L 19.8,25.8 z "
+   id="path15" /&gt;
+			&lt;/svg:g&gt;
+		&lt;/svg:g&gt;&lt;/svg:svg&gt;</y:Resource>
+      <y:Resource id="3">&lt;?xml version="1.0" encoding="UTF-8" standalone="no"?&gt;
+&lt;!-- Generator: Adobe Illustrator 11.0, SVG Export Plug-In . SVG Version: 6.0.0 Build 78)  --&gt;
+&lt;svg:svg
+   xmlns:ns2="http://ns.adobe.com/Extensibility/1.0/"
+   xmlns:ns1="http://ns.adobe.com/Flows/1.0/"
+   xmlns:xapGImg="http://ns.adobe.com/xap/1.0/g/img/"
+   xmlns:xap="http://ns.adobe.com/xap/1.0/"
+   xmlns:ns0="http://ns.adobe.com/SaveForWeb/1.0/"
+   xmlns:ns="http://ns.adobe.com/Variables/1.0/"
+   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   xmlns:x="adobe:ns:meta/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   i:viewOrigin="247.6001 506.4004"
+   i:rulerOrigin="-8 24.8896"
+   i:pageBounds="8 817 603.2754 -24.8896"
+   i:viewBoxInterpretation="asCropBox"
+   width="46.667"
+   height="167.666"
+   viewBox="-0.6 -0.6 46.667 167.666"
+   enable-background="new -0.6 -0.6 46.667 167.666"
+   xml:space="preserve"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45"
+   sodipodi:docname="GullBrace.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:docbase="G:\Documents and Settings\Jesse\Desktop"
+   sodipodi:modified="true"&gt;&lt;svg:defs
+   id="defs18" /&gt;&lt;sodipodi:namedview
+   inkscape:window-height="998"
+   inkscape:window-width="1280"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   guidetolerance="10.0"
+   gridtolerance="10.0"
+   objecttolerance="10.0"
+   borderopacity="1.0"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   id="base"
+   inkscape:zoom="2.2485179"
+   inkscape:cx="23.3335"
+   inkscape:cy="88.280374"
+   inkscape:window-x="1276"
+   inkscape:window-y="-4"
+   inkscape:current-layer="svg2" /&gt;
+	&lt;svg:metadata
+   id="metadata4"&gt;
+		&lt;ns:variableSets&gt;
+			&lt;ns:variableSet
+   varSetName="binding1"
+   locked="none"&gt;
+				&lt;ns:variables /&gt;
+				&lt;ns:sampleDataSets /&gt;
+			&lt;/ns:variableSet&gt;
+		&lt;/ns:variableSets&gt;
+		&lt;ns0:sfw&gt;
+			&lt;ns0:slices /&gt;
+			&lt;ns0:sliceSourceBounds
+   x="210"
+   y="54.523"
+   width="119.998"
+   height="475.477"
+   bottomLeftOrigin="true" /&gt;
+		&lt;/ns0:sfw&gt;
+&lt;xpacket /&gt;&lt;x:xmpmeta
+   x:xmptk="XMP toolkit 3.0-29, framework 1.6"&gt;
+
+&lt;svg:metadata
+   id="metadata20"&gt;&lt;rdf:RDF&gt;
+
+ &lt;rdf:Description
+   rdf:about=""&gt;
+ &lt;/rdf:Description&gt;
+
+ &lt;rdf:Description
+   rdf:about=""&gt;
+ &lt;/rdf:Description&gt;
+
+ &lt;rdf:Description
+   rdf:about=""&gt;
+  &lt;xap:CreateDate&gt;2006-10-15T04:46:54Z&lt;/xap:CreateDate&gt;
+  &lt;xap:ModifyDate&gt;2006-10-15T04:46:54Z&lt;/xap:ModifyDate&gt;
+  &lt;xap:CreatorTool&gt;Illustrator&lt;/xap:CreatorTool&gt;
+  &lt;xap:Thumbnails&gt;
+   &lt;rdf:Alt&gt;
+    &lt;rdf:li
+   rdf:parseType="Resource"&gt;
+     &lt;xapGImg:format&gt;JPEG&lt;/xapGImg:format&gt;
+     &lt;xapGImg:width&gt;68&lt;/xapGImg:width&gt;
+     &lt;xapGImg:height&gt;256&lt;/xapGImg:height&gt;
+     &lt;xapGImg:image&gt;/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA
+AQBIAAAAAQAB/+4ADkFkb2JlAGTAAAAAAf/bAIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoK
+DBAMDAwMDAwQDA4PEA8ODBMTFBQTExwbGxscHx8fHx8fHx8fHwEHBwcNDA0YEBAYGhURFRofHx8f
+Hx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8f/8AAEQgBAABEAwER
+AAIRAQMRAf/EAaIAAAAHAQEBAQEAAAAAAAAAAAQFAwIGAQAHCAkKCwEAAgIDAQEBAQEAAAAAAAAA
+AQACAwQFBgcICQoLEAACAQMDAgQCBgcDBAIGAnMBAgMRBAAFIRIxQVEGE2EicYEUMpGhBxWxQiPB
+UtHhMxZi8CRygvElQzRTkqKyY3PCNUQnk6OzNhdUZHTD0uIIJoMJChgZhJRFRqS0VtNVKBry4/PE
+1OT0ZXWFlaW1xdXl9WZ2hpamtsbW5vY3R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo+Ck5SVlpeYmZ
+qbnJ2en5KjpKWmp6ipqqusra6voRAAICAQIDBQUEBQYECAMDbQEAAhEDBCESMUEFURNhIgZxgZEy
+obHwFMHR4SNCFVJicvEzJDRDghaSUyWiY7LCB3PSNeJEgxdUkwgJChgZJjZFGidkdFU38qOzwygp
+0+PzhJSktMTU5PRldYWVpbXF1eX1RlZmdoaWprbG1ub2R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo
++DlJWWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+v/aAAwDAQACEQMRAD8A9U4q7FXYq7FXYq7FXYq7
+FXYq7FXYql+sXurWkSy6fpv6T+16sKTJDLsPh4erxjap68nWnvirz+P/AJyH8j2nmAeXvNFvqHlL
+VzTjFrEKxwty2DJcQvPEYyQQJCwXbrir06OSOWNZI2DxuAyOpBVlIqCCOoOKrsVdirsVdirsVdir
+sVeN/wDOVfkmx1/8q77VTEv6U8vlby0noOfpcgk8fLrxMbcqeKjFUo/5w6853utfl7eaJeytNL5e
+uVitnYkkWs6l4kqf5HWQDwWg7Yq97xV2KuxV2KuxV2KuxVhX51/+Sj83/wDbKuv+TRxV4V/zgx/0
+23/br/7HMVfVWKuxV2KuxV2KuxV2KsK/Ov8A8lH5v/7ZV1/yaOKvCv8AnBj/AKbb/t1/9jmKvqrF
+XYq7FXYq7FXYq7FWGfnQjv8AlJ5vCAsRpN2xA8FhYk/QBirwf/nBl0D+dYyRzYaYyr3IX62Cfo5D
+FX1XirsVdirsVdirsVdiqC1zSbbWdF1DSLr/AHl1G2mtJ6UJ9OeMxt19mxV8hfklqF3+Sv5uaj5a
+88J+jrHVovqyalJVbZmiflb3CyHYxOCyk/slvipRqKvseGaGeJJoZFlhkUNHIhDKykVBUjYg4qvx
+V2KuxV2KuxV2KrZpYoYnmlcRxRqXkdjRVVRUkk9gMVfJ+o/mF5q/P/zzL5H8vLbaZ5NhDzXV5cW0
+VxcG2jYI09ZVf03dnHprHxYV3brir6D/AC5/Kzyt+X+nGx0E3bLIAJpLq5ll5kb8vSqIEPukYxVl
++KuxV2KuxV2KuxViP5v3ctp+Vfm6eI0kXSL1VYGhBeBlqCO4rXFXz5/zg3aI195xuzTnDFYRLtvS
+Vrhjv/zyGKvrHFXYq7FXYq7FXYq7FWFfnX/5KPzf/wBsq6/5NHFXhX/ODH/Tbf8Abr/7HMVfVWKu
+xV2KuxV2KuxV2KsK/Ov/AMlH5v8A+2Vdf8mjirwr/nBj/ptv+3X/ANjmKvqrFXYq7FXYq7FXYq7F
+Xnn/ADkFqtvpn5N+aZp2AE1mbSMHqXuWWFQPH7dcVeT/APOD+kXMOheatXZSLe9ubW1ibsWtY5He
+n0XS4q+m8VdirsVdirsVdiqXa1q1zp0KvbaXd6rK9QtvZ+gGqP5muJYI1r7tirxL8xPy6/OH83by
+10/WY7Xyb5OtJRN9UM63t7NJQqJJBAfRJVSeK86LU7tir2PyX5O0Pyd5as/L2iRGKwslIUseUjux
+5PJI3dnYkn7hQUGKp3irsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirs
+VdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsV
+dirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVd
+irsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdi
+rsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdir
+sVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdir/
+AP/Z&lt;/xapGImg:image&gt;
+    &lt;/rdf:li&gt;
+   &lt;/rdf:Alt&gt;
+  &lt;/xap:Thumbnails&gt;
+ &lt;/rdf:Description&gt;
+
+ &lt;rdf:Description
+   rdf:about=""&gt;
+  &lt;dc:format&gt;image/svg+xml&lt;/dc:format&gt;
+ &lt;/rdf:Description&gt;
+
+&lt;cc:Work
+   rdf:about=""&gt;&lt;dc:format&gt;image/svg+xml&lt;/dc:format&gt;&lt;dc:type
+     rdf:resource="http://purl.org/dc/dcmitype/StillImage" /&gt;&lt;/cc:Work&gt;&lt;/rdf:RDF&gt;&lt;/svg:metadata&gt;&lt;/x:xmpmeta&gt;
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &lt;xpacket /&gt;
+			&lt;/svg:metadata&gt;
+		&lt;svg:g
+   id="image"
+   i:layer="yes"
+   i:dimmedPercent="3"
+   i:rgbTrio="#4F008000FFFF"
+   transform="matrix(-1,0,0,1,44.655574,0.8894748)"&gt;
+			&lt;svg:switch
+   i:objectNS="http://ns.adobe.com/Flows/1.0/"
+   i:objectType="pointText"
+   display="none"
+   id="switch7"
+   style="display:none"&gt;
+				&lt;svg:foreignObject
+   requiredExtensions="http://ns.adobe.com/Flows/1.0/"
+   x="0"
+   y="0"
+   width="1"
+   height="1"
+   display="inline"
+   overflow="visible"
+   id="foreignObject9"&gt;
+					&lt;ns1:flowDef&gt;
+						&lt;ns1:region
+   textMatrix="1 0 0 1 0 0"&gt;
+							&lt;ns1:path
+   d="M-37.6,148.4" /&gt;
+						&lt;/ns1:region&gt;
+						&lt;ns1:flow
+   font-family="'LetterGothicStd'"
+   font-size="200"&gt;
+							&lt;ns1:p&gt;&lt;ns1:span&gt;}&lt;/ns1:span&gt;&lt;/ns1:p&gt;
+							&lt;ns1:p /&gt;
+						&lt;/ns1:flow&gt;
+					&lt;/ns1:flowDef&gt;
+					&lt;ns2:targetRef
+   xlink:href="#XMLID_1_" /&gt;
+				&lt;/svg:foreignObject&gt;
+				&lt;svg:text
+   id="XMLID_1_"
+   transform="translate(-37.6001,148.4004)"
+   display="inline"
+   style="display:inline"&gt;&lt;svg:tspan
+     x="0"
+     y="0"
+     font-size="200"
+     id="tspan12"
+     style="font-size:200px;font-family:LetterGothicStd"&gt;}&lt;/svg:tspan&gt;&lt;/svg:text&gt;
+
+			&lt;/svg:switch&gt;
+			&lt;svg:g
+   id="raster"
+   i:knockout="Off"&gt;
+				&lt;svg:path
+   i:knockout="Off"
+   d="M 19.8,25.8 C 19.8,11.2 15.6,2.2 0,0.4 L 0.4,0 C 23,0.4 29.2,7.2 29.2,29 L 29.2,59.2 C 29.2,72.6 30.6,79 45.2,82.6 L 45.2,83 C 30.8,86.6 29.2,93 29.2,106.2 L 29.2,138.4 C 29.2,159.4 21.4,165.4 0.4,166 L 0,165.601 C 16,163.201 19.8,155.201 19.8,140 L 19.8,107.8 C 19.8,94.2 21.6,86.4 36.6,83 L 36.6,82.6 C 21.4,79 19.8,70.6 19.8,57 L 19.8,25.8 z "
+   id="path15" /&gt;
+			&lt;/svg:g&gt;
+		&lt;/svg:g&gt;
+	&lt;/svg:svg&gt;</y:Resource>
+      <y:Resource id="4">&lt;?xml version="1.0" encoding="UTF-8" standalone="no"?&gt;
+&lt;!-- Generator: Adobe Illustrator 11.0, SVG Export Plug-In . SVG Version: 6.0.0 Build 78)  --&gt;
+
+&lt;svg:svg
+   xmlns:ns2="http://ns.adobe.com/Extensibility/1.0/"
+   xmlns:ns1="http://ns.adobe.com/Flows/1.0/"
+   xmlns:xapGImg="http://ns.adobe.com/xap/1.0/g/img/"
+   xmlns:xap="http://ns.adobe.com/xap/1.0/"
+   xmlns:ns0="http://ns.adobe.com/SaveForWeb/1.0/"
+   xmlns:ns="http://ns.adobe.com/Variables/1.0/"
+   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   xmlns:x="adobe:ns:meta/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   i:viewOrigin="247.6001 506.4004"
+   i:rulerOrigin="-8 24.8896"
+   i:pageBounds="8 817 603.2754 -24.8896"
+   i:viewBoxInterpretation="asCropBox"
+   width="167.67"
+   height="46.669998"
+   viewBox="-0.6 -0.6 46.667 167.666"
+   enable-background="new -0.6 -0.6 46.667 167.666"
+   xml:space="preserve"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="GullBraceDown.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true"
+   version="1.0"&gt;&lt;svg:defs
+   id="defs18" /&gt;&lt;sodipodi:namedview
+   inkscape:window-height="738"
+   inkscape:window-width="1280"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   guidetolerance="10.0"
+   gridtolerance="10.0"
+   objecttolerance="10.0"
+   borderopacity="1.0"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   id="base"
+   inkscape:zoom="2.2485179"
+   inkscape:cx="23.3335"
+   inkscape:cy="86.351147"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:current-layer="svg2"
+   width="167.67px"
+   height="46.67px"
+   showgrid="false"
+   inkscape:window-maximized="1" /&gt;
+	&lt;svg:metadata
+   id="metadata4"&gt;
+		&lt;ns:variableSets&gt;
+			&lt;ns:variableSet
+   varSetName="binding1"
+   locked="none"&gt;
+				&lt;ns:variables /&gt;
+				&lt;ns:sampleDataSets /&gt;
+			&lt;/ns:variableSet&gt;
+		&lt;/ns:variableSets&gt;
+		&lt;ns0:sfw&gt;
+			&lt;ns0:slices /&gt;
+			&lt;ns0:sliceSourceBounds
+   x="210"
+   y="54.523"
+   width="119.998"
+   height="475.477"
+   bottomLeftOrigin="true" /&gt;
+		&lt;/ns0:sfw&gt;
+&lt;xpacket /&gt;&lt;x:xmpmeta
+   x:xmptk="XMP toolkit 3.0-29, framework 1.6"&gt;
+
+&lt;svg:metadata
+   id="metadata20"&gt;&lt;rdf:RDF&gt;
+
+ &lt;rdf:Description
+   rdf:about=""&gt;
+ &lt;/rdf:Description&gt;
+
+ &lt;rdf:Description
+   rdf:about=""&gt;
+ &lt;/rdf:Description&gt;
+
+ &lt;rdf:Description
+   rdf:about=""&gt;
+  &lt;xap:CreateDate&gt;2006-10-15T04:46:54Z&lt;/xap:CreateDate&gt;
+  &lt;xap:ModifyDate&gt;2006-10-15T04:46:54Z&lt;/xap:ModifyDate&gt;
+  &lt;xap:CreatorTool&gt;Illustrator&lt;/xap:CreatorTool&gt;
+  &lt;xap:Thumbnails&gt;
+   &lt;rdf:Alt&gt;
+    &lt;rdf:li
+   rdf:parseType="Resource"&gt;
+     &lt;xapGImg:format&gt;JPEG&lt;/xapGImg:format&gt;
+     &lt;xapGImg:width&gt;68&lt;/xapGImg:width&gt;
+     &lt;xapGImg:height&gt;256&lt;/xapGImg:height&gt;
+     &lt;xapGImg:image&gt;/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA
+AQBIAAAAAQAB/+4ADkFkb2JlAGTAAAAAAf/bAIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoK
+DBAMDAwMDAwQDA4PEA8ODBMTFBQTExwbGxscHx8fHx8fHx8fHwEHBwcNDA0YEBAYGhURFRofHx8f
+Hx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8f/8AAEQgBAABEAwER
+AAIRAQMRAf/EAaIAAAAHAQEBAQEAAAAAAAAAAAQFAwIGAQAHCAkKCwEAAgIDAQEBAQEAAAAAAAAA
+AQACAwQFBgcICQoLEAACAQMDAgQCBgcDBAIGAnMBAgMRBAAFIRIxQVEGE2EicYEUMpGhBxWxQiPB
+UtHhMxZi8CRygvElQzRTkqKyY3PCNUQnk6OzNhdUZHTD0uIIJoMJChgZhJRFRqS0VtNVKBry4/PE
+1OT0ZXWFlaW1xdXl9WZ2hpamtsbW5vY3R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo+Ck5SVlpeYmZ
+qbnJ2en5KjpKWmp6ipqqusra6voRAAICAQIDBQUEBQYECAMDbQEAAhEDBCESMUEFURNhIgZxgZEy
+obHwFMHR4SNCFVJicvEzJDRDghaSUyWiY7LCB3PSNeJEgxdUkwgJChgZJjZFGidkdFU38qOzwygp
+0+PzhJSktMTU5PRldYWVpbXF1eX1RlZmdoaWprbG1ub2R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo
++DlJWWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+v/aAAwDAQACEQMRAD8A9U4q7FXYq7FXYq7FXYq7
+FXYq7FXYql+sXurWkSy6fpv6T+16sKTJDLsPh4erxjap68nWnvirz+P/AJyH8j2nmAeXvNFvqHlL
+VzTjFrEKxwty2DJcQvPEYyQQJCwXbrir06OSOWNZI2DxuAyOpBVlIqCCOoOKrsVdirsVdirsVdir
+sVeN/wDOVfkmx1/8q77VTEv6U8vlby0noOfpcgk8fLrxMbcqeKjFUo/5w6853utfl7eaJeytNL5e
+uVitnYkkWs6l4kqf5HWQDwWg7Yq97xV2KuxV2KuxV2KuxVhX51/+Sj83/wDbKuv+TRxV4V/zgx/0
+23/br/7HMVfVWKuxV2KuxV2KuxV2KsK/Ov8A8lH5v/7ZV1/yaOKvCv8AnBj/AKbb/t1/9jmKvqrF
+XYq7FXYq7FXYq7FWGfnQjv8AlJ5vCAsRpN2xA8FhYk/QBirwf/nBl0D+dYyRzYaYyr3IX62Cfo5D
+FX1XirsVdirsVdirsVdiqC1zSbbWdF1DSLr/AHl1G2mtJ6UJ9OeMxt19mxV8hfklqF3+Sv5uaj5a
+88J+jrHVovqyalJVbZmiflb3CyHYxOCyk/slvipRqKvseGaGeJJoZFlhkUNHIhDKykVBUjYg4qvx
+V2KuxV2KuxV2KrZpYoYnmlcRxRqXkdjRVVRUkk9gMVfJ+o/mF5q/P/zzL5H8vLbaZ5NhDzXV5cW0
+VxcG2jYI09ZVf03dnHprHxYV3brir6D/AC5/Kzyt+X+nGx0E3bLIAJpLq5ll5kb8vSqIEPukYxVl
++KuxV2KuxV2KuxViP5v3ctp+Vfm6eI0kXSL1VYGhBeBlqCO4rXFXz5/zg3aI195xuzTnDFYRLtvS
+Vrhjv/zyGKvrHFXYq7FXYq7FXYq7FWFfnX/5KPzf/wBsq6/5NHFXhX/ODH/Tbf8Abr/7HMVfVWKu
+xV2KuxV2KuxV2KsK/Ov/AMlH5v8A+2Vdf8mjirwr/nBj/ptv+3X/ANjmKvqrFXYq7FXYq7FXYq7F
+Xnn/ADkFqtvpn5N+aZp2AE1mbSMHqXuWWFQPH7dcVeT/APOD+kXMOheatXZSLe9ubW1ibsWtY5He
+n0XS4q+m8VdirsVdirsVdiqXa1q1zp0KvbaXd6rK9QtvZ+gGqP5muJYI1r7tirxL8xPy6/OH83by
+10/WY7Xyb5OtJRN9UM63t7NJQqJJBAfRJVSeK86LU7tir2PyX5O0Pyd5as/L2iRGKwslIUseUjux
+5PJI3dnYkn7hQUGKp3irsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirs
+VdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsV
+dirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVd
+irsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdi
+rsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdir
+sVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdir/
+AP/Z&lt;/xapGImg:image&gt;
+    &lt;/rdf:li&gt;
+   &lt;/rdf:Alt&gt;
+  &lt;/xap:Thumbnails&gt;
+ &lt;/rdf:Description&gt;
+
+ &lt;rdf:Description
+   rdf:about=""&gt;
+  &lt;dc:format&gt;image/svg+xml&lt;/dc:format&gt;
+ &lt;/rdf:Description&gt;
+
+&lt;cc:Work
+   rdf:about=""&gt;&lt;dc:format&gt;image/svg+xml&lt;/dc:format&gt;&lt;dc:type
+     rdf:resource="http://purl.org/dc/dcmitype/StillImage" /&gt;&lt;/cc:Work&gt;&lt;/rdf:RDF&gt;&lt;/svg:metadata&gt;&lt;/x:xmpmeta&gt;
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &lt;xpacket /&gt;
+			&lt;/svg:metadata&gt;
+		
+	&lt;svg:g
+   id="image"
+   i:layer="yes"
+   i:dimmedPercent="3"
+   i:rgbTrio="#4F008000FFFF"
+   transform="matrix(0,-3.59259,3.59259,0,-273.914,163.75654)"&gt;
+			&lt;svg:switch
+   i:objectNS="http://ns.adobe.com/Flows/1.0/"
+   i:objectType="pointText"
+   display="none"
+   id="switch7"
+   style="display:none"&gt;
+				&lt;svg:foreignObject
+   requiredExtensions="http://ns.adobe.com/Flows/1.0/"
+   x="0"
+   y="0"
+   width="1"
+   height="1"
+   display="inline"
+   overflow="visible"
+   id="foreignObject9"&gt;
+					&lt;ns1:flowDef&gt;
+						&lt;ns1:region
+   textMatrix="1 0 0 1 0 0"&gt;
+							&lt;ns1:path
+   d="M-37.6,148.4" /&gt;
+						&lt;/ns1:region&gt;
+						&lt;ns1:flow
+   font-family="'LetterGothicStd'"
+   font-size="200"&gt;
+							&lt;ns1:p&gt;&lt;ns1:span&gt;}&lt;/ns1:span&gt;&lt;/ns1:p&gt;
+							&lt;ns1:p /&gt;
+						&lt;/ns1:flow&gt;
+					&lt;/ns1:flowDef&gt;
+					&lt;ns2:targetRef
+   xlink:href="#XMLID_1_" /&gt;
+				&lt;/svg:foreignObject&gt;
+				&lt;svg:text
+   id="XMLID_1_"
+   transform="translate(-37.6001,148.4)"
+   display="inline"
+   style="display:inline"&gt;&lt;svg:tspan
+     x="0"
+     y="0"
+     font-size="200"
+     id="tspan12"
+     style="font-size:200px;font-family:LetterGothicStd"&gt;}&lt;/svg:tspan&gt;&lt;/svg:text&gt;
+
+
+
+			&lt;/svg:switch&gt;
+			&lt;svg:g
+   id="raster"
+   i:knockout="Off"&gt;
+				&lt;svg:path
+   i:knockout="Off"
+   d="M 19.8,25.8 C 19.8,11.2 15.6,2.2 0,0.4 L 0.4,0 C 23,0.4 29.2,7.2 29.2,29 l 0,30.2 c 0,13.4 1.4,19.8 16,23.4 l 0,0.4 c -14.4,3.6 -16,10 -16,23.2 l 0,32.2 c 0,21 -7.8,27 -28.8,27.6 L 0,165.601 c 16,-2.4 19.8,-10.4 19.8,-25.601 l 0,-32.2 C 19.8,94.2 21.6,86.4 36.6,83 l 0,-0.4 C 21.4,79 19.8,70.6 19.8,57 l 0,-31.2 z"
+   id="path15"
+   inkscape:connector-curvature="0" /&gt;
+			&lt;/svg:g&gt;
+		&lt;/svg:g&gt;&lt;/svg:svg&gt;</y:Resource>
+      <y:Resource id="5">&lt;?xml version="1.0" encoding="UTF-8" standalone="no"?&gt;
+&lt;svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg"
+     version="1.0" width="500px" height="600px" viewBox="-500, -600 ,1000, 1200" &gt;
+  &lt;polygon  style="stroke:none; fill:#000000;" 
+    points="100,-600 100,200  500,-200 500,100  0,600  -500,100 -500,-200 -100,200 -100,-600 " /&gt; &lt;!-- arrow down --&gt;
+&lt;/svg&gt;</y:Resource>
+      <y:Resource id="6">&lt;svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg"
+     version="1.0" width="600px" height="500px" viewBox="-600, -500 ,1200, 1000" &gt;
+  &lt;polygon  style="stroke:none; fill:#000000;" 
+    points="-600,100 200,100  -200,500 100,500 600,0 100,-500 -200,-500 200,-100 -600,-100 " /&gt;
+&lt;/svg&gt;
+</y:Resource>
+    </y:Resources>
+  </data>
+</graphml>

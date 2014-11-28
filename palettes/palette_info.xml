@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<palette.information>
+  <palette.section palette.id="shapeNodes.palette" palette.visibility="true"/>
+  <palette.section palette.id="My Shapes(No Border)" palette.visibility="true"/>
+  <palette.section palette.id="Pure Flowchart" palette.visibility="true"/>
+  <palette.section palette.id="My Edges" palette.visibility="true"/>
+  <palette.section palette.id="edges.palette" palette.visibility="true"/>
+  <palette.section palette.id="My Shapes" palette.visibility="true"/>
+  <palette.section palette.id="modernNodes.palette" palette.visibility="true"/>
+  <palette.section palette.id="groupNodes.palette" palette.visibility="true"/>
+  <palette.section palette.id="tableNodes.palette" palette.visibility="true"/>
+  <palette.section palette.id="people.palette" palette.visibility="true"/>
+  <palette.section palette.id="computers.palette" palette.visibility="true"/>
+  <palette.section palette.id="uml.palette" palette.visibility="true"/>
+  <palette.section palette.id="mUMLSeq" palette.visibility="true"/>
+  <palette.section palette.id="flowchart.palette" palette.visibility="true"/>
+  <palette.section palette.id="bpmn.palette" palette.visibility="true"/>
+  <palette.section palette.id="erd.palette" palette.visibility="true"/>
+  <palette.section palette.id="current.elements.palette" palette.visibility="true"/>
+  <palette.section palette.id="brace" palette.visibility="true"/>
+</palette.information>
