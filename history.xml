@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <history>
   <entry>
-    <url>file:/home/lutts/embed/personal/android/PackageInstaller/layout.graphml</url>
-    <mimeType>application-yfiles</mimeType>
-    <ioHint>GraphMLInput</ioHint>
-  </entry>
-  <entry>
-    <url>file:/home/lutts/dlmalloc.graphml</url>
-    <mimeType>application-yfiles</mimeType>
-    <ioHint>GraphMLInput</ioHint>
-  </entry>
-  <entry>
-    <url>file:/home/lutts/embed/tools/dev-tools/doc-design/yEd/My%20Shapes-noborder.graphml</url>
-    <mimeType>application-yfiles</mimeType>
-    <ioHint>GraphMLOutput</ioHint>
-  </entry>
-  <entry>
     <url>file:/home/lutts/cmake.graphml</url>
     <mimeType>application-yfiles</mimeType>
     <ioHint>GraphMLInput</ioHint>
@@ -41,13 +26,28 @@
     <ioHint>GraphMLOutput</ioHint>
   </entry>
   <entry>
+    <url>file:/home/lutts/Documents/uml_class.graphml</url>
+    <mimeType>application-yfiles</mimeType>
+    <ioHint>GraphMLOutput</ioHint>
+  </entry>
+  <entry>
+    <url>file:/home/lutts/Documents/uml_assoc_class.graphml</url>
+    <mimeType>application-yfiles</mimeType>
+    <ioHint>GraphMLOutput</ioHint>
+  </entry>
+  <entry>
+    <url>file:/home/lutts/Documents/uml_template_cls.graphml</url>
+    <mimeType>application-yfiles</mimeType>
+    <ioHint>GraphMLOutput</ioHint>
+  </entry>
+  <entry>
     <url>file:/home/lutts/Documents/autotools.graphml</url>
     <mimeType>application-yfiles</mimeType>
     <ioHint>GraphMLOutput</ioHint>
   </entry>
   <entry>
-    <url>file:/home/lutts/Documents/uml_class.graphml</url>
+    <url>file:/home/lutts/embed/tools/dev-tools/toolchain/autotools/autotools.graphml</url>
     <mimeType>application-yfiles</mimeType>
-    <ioHint>GraphMLOutput</ioHint>
+    <ioHint>GraphMLInput</ioHint>
   </entry>
 </history>
