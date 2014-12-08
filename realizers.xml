@@ -77,12 +77,12 @@
     </node>
     <edge id="e0" source="n0" target="n1">
       <data key="d9"><![CDATA[default edge]]></data>
-      <data key="d10"><![CDATA[/yEd/palette/application-yfiles/categories/My Edges/entries/563]]></data>
+      <data key="d10"><![CDATA[/yEd/palette/application-yfiles/categories/mUMLSeq/entries/4d2b6b3f-d969-48f9-b5fe-e311be7f83cd]]></data>
       <data key="d13">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#6C090D" type="line" width="1.0"/>
-          <y:Arrows source="none" target="standard"/>
+          <y:Arrows source="none" target="plain"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>

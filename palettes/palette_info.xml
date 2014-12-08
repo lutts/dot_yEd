@@ -12,7 +12,7 @@
   <palette.section palette.id="people.palette" palette.visibility="true"/>
   <palette.section palette.id="computers.palette" palette.visibility="true"/>
   <palette.section palette.id="uml.palette" palette.visibility="true"/>
-  <palette.section palette.id="mUMLSeq" palette.visibility="true"/>
+  <palette.section palette.id="mUML" palette.visibility="true"/>
   <palette.section palette.id="flowchart.palette" palette.visibility="true"/>
   <palette.section palette.id="bpmn.palette" palette.visibility="true"/>
   <palette.section palette.id="erd.palette" palette.visibility="true"/>

@@ -11,123 +11,11 @@
     </entry>
   </store>
   <store name="com.yworks.yfx.yfiles.YFilesModule">
-    <entry name="snapping.edge.edge" type="java.lang.Integer">
-      <value>20</value>
-      <defaultValue>20</defaultValue>
-    </entry>
-    <entry name="createNodeOnClick" type="java.lang.Boolean">
-      <value>false</value>
-      <defaultValue>true</defaultValue>
-    </entry>
-    <entry name="gridType" type="java.lang.String">
-      <value>POINTS</value>
-      <defaultValue>POINTS</defaultValue>
-    </entry>
-    <entry name="editLabelOnCreateEdge" type="java.lang.Boolean">
-      <value>false</value>
-      <defaultValue>false</defaultValue>
-    </entry>
-    <entry name="resizeFromCenter" type="java.lang.Boolean">
-      <value>true</value>
-      <defaultValue>true</defaultValue>
-    </entry>
-    <entry name="morphLayouts" type="java.lang.Boolean">
-      <value>true</value>
-      <defaultValue>true</defaultValue>
-    </entry>
-    <entry name="createDefaultNodeLabel" type="java.lang.Boolean">
-      <value>true</value>
-      <defaultValue>true</defaultValue>
-    </entry>
     <entry name="showScrollbarsInEditMode" type="java.lang.Boolean">
       <value>true</value>
       <defaultValue>true</defaultValue>
     </entry>
-    <entry name="useOrthogonalEdgeMode" type="java.lang.Boolean">
-      <value>false</value>
-      <defaultValue>false</defaultValue>
-    </entry>
-    <entry name="arrowClip" type="java.lang.Integer">
-      <value>0</value>
-      <defaultValue>0</defaultValue>
-    </entry>
-    <entry name="editLabelOnCreateNode" type="java.lang.Boolean">
-      <value>false</value>
-      <defaultValue>false</defaultValue>
-    </entry>
-    <entry name="snapping.color" type="java.awt.Color">
-      <value>#c0c0c0</value>
-      <defaultValue>#c0c0c0</defaultValue>
-    </entry>
-    <entry name="fitContentOnResize" type="java.lang.Boolean">
-      <value>false</value>
-      <defaultValue>false</defaultValue>
-    </entry>
-    <entry name="useCenteredPorts" type="java.lang.Boolean">
-      <value>false</value>
-      <defaultValue>false</defaultValue>
-    </entry>
-    <entry name="morphDuration" type="java.lang.Integer">
-      <value>300</value>
-      <defaultValue>300</defaultValue>
-    </entry>
-    <entry name="backgroundMode" type="java.lang.Byte">
-      <value>4</value>
-      <defaultValue>4</defaultValue>
-    </entry>
     <entry name="snapping.enabled" type="java.lang.Boolean">
-      <value>true</value>
-      <defaultValue>true</defaultValue>
-    </entry>
-    <entry name="snapping.node.node" type="java.lang.Integer">
-      <value>30</value>
-      <defaultValue>30</defaultValue>
-    </entry>
-    <entry name="gridSpacing" type="java.lang.Integer">
-      <value>30</value>
-      <defaultValue>30</defaultValue>
-    </entry>
-    <entry name="backgroundColor" type="java.awt.Color">
-      <value>#ffffcc</value>
-      <defaultValue>#ffffff</defaultValue>
-    </entry>
-    <entry name="snapping.node.edge" type="java.lang.Integer">
-      <value>20</value>
-      <defaultValue>20</defaultValue>
-    </entry>
-    <entry name="mouseWheelBehavior" type="java.lang.Byte">
-      <value>1</value>
-      <defaultValue>0</defaultValue>
-    </entry>
-    <entry name="animatedZooming" type="java.lang.Boolean">
-      <value>true</value>
-      <defaultValue>false</defaultValue>
-    </entry>
-    <entry name="detailsThreshold" type="java.lang.Double">
-      <value>0.3</value>
-      <defaultValue>0.3</defaultValue>
-    </entry>
-    <entry name="bridgeCrossing" type="y.view.BridgeCalculator">
-      <value>7</value>
-      <defaultValue>7</defaultValue>
-    </entry>
-    <entry name="groupStateDisplay" type="java.lang.Byte">
-      <value>1</value>
-      <defaultValue>1</defaultValue>
-    </entry>
-    <entry name="showGrid" type="java.lang.Boolean">
-      <value>false</value>
-      <defaultValue>false</defaultValue>
-    </entry>
-    <entry name="selectElementOnDrop" type="java.lang.Boolean">
-      <value>false</value>
-      <defaultValue>false</defaultValue>
-    </entry>
-    <entry name="showModulesDialogs" type="java.lang.Boolean">
-      <value>true</value>
-      <defaultValue>true</defaultValue>
-    </entry>
-    <entry name="removeInnerBends" type="java.lang.Boolean">
       <value>true</value>
       <defaultValue>true</defaultValue>
     </entry>
@@ -135,11 +23,11 @@
       <value>#808080</value>
       <defaultValue>#808080</defaultValue>
     </entry>
-    <entry name="bridgeScaling" type="y.view.BridgeCalculator">
-      <value>5</value>
-      <defaultValue>5</defaultValue>
+    <entry name="gridSpacing" type="java.lang.Integer">
+      <value>30</value>
+      <defaultValue>30</defaultValue>
     </entry>
-    <entry name="paintNodesOverEdges" type="java.lang.Boolean">
+    <entry name="adjustNodeSizeToLabel" type="java.lang.Boolean">
       <value>false</value>
       <defaultValue>false</defaultValue>
     </entry>
@@ -147,21 +35,133 @@
       <value>true</value>
       <defaultValue>true</defaultValue>
     </entry>
-    <entry name="adjustNodeSizeToLabel" type="java.lang.Boolean">
+    <entry name="paintNodesOverEdges" type="java.lang.Boolean">
       <value>false</value>
       <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="editLabelOnCreateNode" type="java.lang.Boolean">
+      <value>false</value>
+      <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="createDefaultNodeLabel" type="java.lang.Boolean">
+      <value>true</value>
+      <defaultValue>true</defaultValue>
+    </entry>
+    <entry name="showGrid" type="java.lang.Boolean">
+      <value>false</value>
+      <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="gridType" type="java.lang.String">
+      <value>POINTS</value>
+      <defaultValue>POINTS</defaultValue>
+    </entry>
+    <entry name="snapping.node.node" type="java.lang.Integer">
+      <value>30</value>
+      <defaultValue>30</defaultValue>
+    </entry>
+    <entry name="fitContentOnResize" type="java.lang.Boolean">
+      <value>false</value>
+      <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="snapping.color" type="java.awt.Color">
+      <value>#c0c0c0</value>
+      <defaultValue>#c0c0c0</defaultValue>
+    </entry>
+    <entry name="removeInnerBends" type="java.lang.Boolean">
+      <value>true</value>
+      <defaultValue>true</defaultValue>
+    </entry>
+    <entry name="mouseWheelBehavior" type="java.lang.Byte">
+      <value>1</value>
+      <defaultValue>0</defaultValue>
+    </entry>
+    <entry name="editLabelOnCreateEdge" type="java.lang.Boolean">
+      <value>false</value>
+      <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="backgroundMode" type="java.lang.Byte">
+      <value>4</value>
+      <defaultValue>4</defaultValue>
+    </entry>
+    <entry name="bridgeScaling" type="y.view.BridgeCalculator">
+      <value>5</value>
+      <defaultValue>5</defaultValue>
+    </entry>
+    <entry name="maxDynamicPaletteEntries" type="java.lang.Integer">
+      <value>30</value>
+      <defaultValue>30</defaultValue>
+    </entry>
+    <entry name="bridgeCrossing" type="y.view.BridgeCalculator">
+      <value>7</value>
+      <defaultValue>7</defaultValue>
+    </entry>
+    <entry name="resizeFromCenter" type="java.lang.Boolean">
+      <value>true</value>
+      <defaultValue>true</defaultValue>
+    </entry>
+    <entry name="groupStateDisplay" type="java.lang.Byte">
+      <value>1</value>
+      <defaultValue>1</defaultValue>
     </entry>
     <entry name="snapping.mpm.edge.distance" type="java.lang.Boolean">
       <value>false</value>
       <defaultValue>false</defaultValue>
     </entry>
+    <entry name="detailsThreshold" type="java.lang.Double">
+      <value>0.3</value>
+      <defaultValue>0.3</defaultValue>
+    </entry>
+    <entry name="snapping.node.edge" type="java.lang.Integer">
+      <value>20</value>
+      <defaultValue>20</defaultValue>
+    </entry>
+    <entry name="createNodeOnClick" type="java.lang.Boolean">
+      <value>false</value>
+      <defaultValue>true</defaultValue>
+    </entry>
+    <entry name="selectElementOnDrop" type="java.lang.Boolean">
+      <value>false</value>
+      <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="morphLayouts" type="java.lang.Boolean">
+      <value>true</value>
+      <defaultValue>true</defaultValue>
+    </entry>
+    <entry name="useCenteredPorts" type="java.lang.Boolean">
+      <value>false</value>
+      <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="snapping.edge.edge" type="java.lang.Integer">
+      <value>20</value>
+      <defaultValue>20</defaultValue>
+    </entry>
+    <entry name="arrowClip" type="java.lang.Integer">
+      <value>0</value>
+      <defaultValue>0</defaultValue>
+    </entry>
     <entry name="synchronizeGroupLabels" type="java.lang.Boolean">
       <value>false</value>
       <defaultValue>false</defaultValue>
     </entry>
-    <entry name="maxDynamicPaletteEntries" type="java.lang.Integer">
-      <value>30</value>
-      <defaultValue>30</defaultValue>
+    <entry name="animatedZooming" type="java.lang.Boolean">
+      <value>true</value>
+      <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="backgroundColor" type="java.awt.Color">
+      <value>#ffffcc</value>
+      <defaultValue>#ffffff</defaultValue>
+    </entry>
+    <entry name="morphDuration" type="java.lang.Integer">
+      <value>300</value>
+      <defaultValue>300</defaultValue>
+    </entry>
+    <entry name="useOrthogonalEdgeMode" type="java.lang.Boolean">
+      <value>false</value>
+      <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="showModulesDialogs" type="java.lang.Boolean">
+      <value>true</value>
+      <defaultValue>true</defaultValue>
     </entry>
   </store>
   <store name="B.A.A.Y.A">
@@ -184,7 +184,7 @@
   </store>
   <store name="com.yworks.yfx.DialogManager">
     <store name="docked">
-      <entry name="IMAGEIO_OUTPUT" type="java.lang.Boolean">
+      <entry name="B.A.A.B.B.D" type="java.lang.Boolean">
         <value>false</value>
         <defaultValue>false</defaultValue>
       </entry>
@@ -192,7 +192,35 @@
         <value>false</value>
         <defaultValue>false</defaultValue>
       </entry>
+      <entry name="Preferences" type="java.lang.Boolean">
+        <value>false</value>
+        <defaultValue>false</defaultValue>
+      </entry>
+      <entry name="y.module.TreeLayoutModule" type="java.lang.Boolean">
+        <value>false</value>
+        <defaultValue>false</defaultValue>
+      </entry>
       <entry name="B.A.A.P._$B" type="java.lang.Boolean">
+        <value>false</value>
+        <defaultValue>false</defaultValue>
+      </entry>
+      <entry name="SVG_OUTPUT" type="java.lang.Boolean">
+        <value>false</value>
+        <defaultValue>false</defaultValue>
+      </entry>
+      <entry name="B.A.A.P.H" type="java.lang.Boolean">
+        <value>false</value>
+        <defaultValue>false</defaultValue>
+      </entry>
+      <entry name="IMAGEIO_OUTPUT" type="java.lang.Boolean">
+        <value>false</value>
+        <defaultValue>false</defaultValue>
+      </entry>
+      <entry name="B.A.A.P.j" type="java.lang.Boolean">
+        <value>false</value>
+        <defaultValue>false</defaultValue>
+      </entry>
+      <entry name="Properties Mapper Tool" type="java.lang.Boolean">
         <value>false</value>
         <defaultValue>false</defaultValue>
       </entry>
@@ -204,49 +232,29 @@
         <value>false</value>
         <defaultValue>false</defaultValue>
       </entry>
-      <entry name="B.A.A.P.j" type="java.lang.Boolean">
-        <value>false</value>
-        <defaultValue>false</defaultValue>
-      </entry>
-      <entry name="SVG_OUTPUT" type="java.lang.Boolean">
-        <value>false</value>
-        <defaultValue>false</defaultValue>
-      </entry>
-      <entry name="Properties Mapper Tool" type="java.lang.Boolean">
-        <value>false</value>
-        <defaultValue>false</defaultValue>
-      </entry>
-      <entry name="B.A.A.P.H" type="java.lang.Boolean">
-        <value>false</value>
-        <defaultValue>false</defaultValue>
-      </entry>
-      <entry name="Preferences" type="java.lang.Boolean">
-        <value>false</value>
-        <defaultValue>false</defaultValue>
-      </entry>
     </store>
   </store>
   <store name="com.yworks.yfx.io.IoSupport">
     <store name="lastFilterIndex">
-      <entry name="export" type="java.lang.Integer">
-        <value>8</value>
-        <defaultValue>8</defaultValue>
+      <entry name="paletteImport" type="java.lang.Integer">
+        <value>0</value>
+        <defaultValue>0</defaultValue>
       </entry>
       <entry name="open" type="java.lang.Integer">
         <value>0</value>
         <defaultValue>0</defaultValue>
       </entry>
-      <entry name="paletteImport" type="java.lang.Integer">
+      <entry name="save" type="java.lang.Integer">
         <value>0</value>
         <defaultValue>0</defaultValue>
+      </entry>
+      <entry name="export" type="java.lang.Integer">
+        <value>8</value>
+        <defaultValue>8</defaultValue>
       </entry>
       <entry name="symbolImport" type="java.lang.Integer">
         <value>0</value>
         <defaultValue>2</defaultValue>
-      </entry>
-      <entry name="save" type="java.lang.Integer">
-        <value>0</value>
-        <defaultValue>0</defaultValue>
       </entry>
     </store>
     <store name="lastDirectoryName">
@@ -254,14 +262,316 @@
         <value>/home/lutts</value>
         <defaultValue>/home/lutts</defaultValue>
       </entry>
-      <entry name="mainFile" type="java.io.File">
-        <value>/home/lutts/embed/tools/dev-tools/toolchain/autotools</value>
-        <defaultValue>/home/lutts/embed/personal/android/PackageInstaller</defaultValue>
-      </entry>
       <entry name="symbolFile" type="java.io.File">
-        <value>/home/lutts</value>
+        <value>/home/lutts/Documents</value>
         <defaultValue>/home/lutts</defaultValue>
       </entry>
+      <entry name="mainFile" type="java.io.File">
+        <value>/home/lutts/Documents</value>
+        <defaultValue>/home/lutts/embed/personal/android/PackageInstaller</defaultValue>
+      </entry>
     </store>
+  </store>
+  <store name="BALLOON">
+    <entry name="BALLOON.GENERAL.ROOT_NODE_POLICY" type="java.lang.String">
+      <value>DIRECTED_ROOT</value>
+      <defaultValue>DIRECTED_ROOT</defaultValue>
+    </entry>
+    <entry name="BALLOON.GENERAL.MINIMAL_EDGE_LENGTH" type="java.lang.String">
+      <value>40</value>
+      <defaultValue>40</defaultValue>
+    </entry>
+    <entry name="BALLOON.GENERAL.ACT_ON_SELECTION_ONLY" type="java.lang.String">
+      <value>false</value>
+      <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="BALLOON.LABELING.INTEGRATED_EDGE_LABELING" type="java.lang.String">
+      <value>true</value>
+      <defaultValue>true</defaultValue>
+    </entry>
+    <entry name="BALLOON.GENERAL.ROUTING_STYLE_FOR_NON_TREE_EDGES" type="java.lang.String">
+      <value>ROUTE_ORGANIC</value>
+      <defaultValue>ROUTE_ORGANIC</defaultValue>
+    </entry>
+    <entry name="BALLOON.GENERAL.PLACE_CHILDREN_INTERLEAVED" type="java.lang.String">
+      <value>false</value>
+      <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="BALLOON.GENERAL.STRAIGHTEN_CHAINS" type="java.lang.String">
+      <value>false</value>
+      <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="BALLOON.GENERAL.ALLOW_OVERLAPS" type="java.lang.String">
+      <value>false</value>
+      <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="BALLOON.LABELING.NODE_LABELING_STYLE" type="java.lang.String">
+      <value>NODE_LABELING_STYLE_CONSIDER_CURRENT_POSITION</value>
+      <defaultValue>NODE_LABELING_STYLE_CONSIDER_CURRENT_POSITION</defaultValue>
+    </entry>
+    <entry name="BALLOON.GENERAL.FROM_SKETCH" type="java.lang.String">
+      <value>false</value>
+      <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="BALLOON.LABELING.AUTO_FLIP_NODE_LABELS" type="java.lang.String">
+      <value>true</value>
+      <defaultValue>true</defaultValue>
+    </entry>
+    <entry name="BALLOON.GENERAL.COMPACTNESS_FACTOR" type="java.lang.String">
+      <value>0.5</value>
+      <defaultValue>0.5</defaultValue>
+    </entry>
+    <entry name="BALLOON.GENERAL.PREFERRED_ROOT_WEDGE" type="java.lang.String">
+      <value>360</value>
+      <defaultValue>360</defaultValue>
+    </entry>
+    <entry name="BALLOON.GENERAL.PREFERRED_CHILD_WEDGE" type="java.lang.String">
+      <value>340</value>
+      <defaultValue>340</defaultValue>
+    </entry>
+  </store>
+  <store name="INCREMENTAL_HIERARCHIC">
+    <entry name="INCREMENTAL_HIERARCHIC.EDGE_SETTINGS.BACKLOOP_ROUTING" type="java.lang.String">
+      <value>false</value>
+      <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.EDGE_SETTINGS.PC_OPTIMIZATION_ENABLED" type="java.lang.String">
+      <value>false</value>
+      <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.EDGE_SETTINGS.EDGE_ROUTING" type="java.lang.String">
+      <value>EDGE_ROUTING_ORTHOGONAL</value>
+      <defaultValue>EDGE_ROUTING_ORTHOGONAL</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.RANKS.COMPONENT_ARRANGEMENT_POLICY" type="java.lang.String">
+      <value>POLICY_TOPMOST</value>
+      <defaultValue>POLICY_TOPMOST</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.RANKS.HALO" type="java.lang.String">
+      <value>0.0</value>
+      <defaultValue>0.0</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.LABELING.CONSIDER_NODE_LABELS" type="java.lang.String">
+      <value>true</value>
+      <defaultValue>true</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.EDGE_SETTINGS.BACKLOOP_ROUTING_SELFLOOPS" type="java.lang.String">
+      <value>false</value>
+      <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.EDGE_SETTINGS.MINIMUM_LAST_SEGMENT_LENGTH" type="java.lang.String">
+      <value>15.0</value>
+      <defaultValue>15.0</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.GROUPING.GROUP_ALIGNMENT" type="java.lang.String">
+      <value>GROUP_ALIGN_TOP</value>
+      <defaultValue>GROUP_ALIGN_TOP</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.GENERAL.USE_DRAWING_AS_SKETCH" type="java.lang.String">
+      <value>false</value>
+      <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.GENERAL.SYMMETRIC_PLACEMENT" type="java.lang.String">
+      <value>true</value>
+      <defaultValue>true</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.RANKS.MAXIMUM_SIZE" type="java.lang.String">
+      <value>1000.0</value>
+      <defaultValue>1000.0</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.EDGE_SETTINGS.EDGE_STRAIGHTENING_OPTIMIZATION_ENABLED" type="java.lang.String">
+      <value>false</value>
+      <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.RANKS.MINIMUM_SIZE" type="java.lang.String">
+      <value>0.0</value>
+      <defaultValue>0.0</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.RANKS.RANKING_POLICY" type="java.lang.String">
+      <value>HIERARCHICAL_OPTIMAL</value>
+      <defaultValue>HIERARCHICAL_OPTIMAL</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.EDGE_SETTINGS.MINIMUM_EDGE_LENGTH" type="java.lang.String">
+      <value>20.0</value>
+      <defaultValue>20.0</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.RANKS.LAYER_ALIGNMENT" type="java.lang.String">
+      <value>CENTER</value>
+      <defaultValue>CENTER</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.LABELING.EDGE_LABEL_MODEL" type="java.lang.String">
+      <value>EDGE_LABEL_MODEL_BEST</value>
+      <defaultValue>EDGE_LABEL_MODEL_BEST</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.EDGE_SETTINGS.MINIMUM_SLOPE" type="java.lang.String">
+      <value>0.25</value>
+      <defaultValue>0.25</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.EDGE_SETTINGS.AUTOMATIC_EDGE_GROUPING_ENABLED" type="java.lang.String">
+      <value>false</value>
+      <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.EDGE_SETTINGS.MINIMUM_FIRST_SEGMENT_LENGTH" type="java.lang.String">
+      <value>10.0</value>
+      <defaultValue>10.0</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.GENERAL.MINIMUM_LAYER_DISTANCE" type="java.lang.String">
+      <value>10.0</value>
+      <defaultValue>10.0</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.GROUPING.GROUP_ENABLE_COMPACTION" type="java.lang.String">
+      <value>true</value>
+      <defaultValue>true</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.GROUPING.GROUP_LAYERING_STRATEGY" type="java.lang.String">
+      <value>GLOBAL_LAYERING</value>
+      <defaultValue>GLOBAL_LAYERING</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.GENERAL.ORIENTATION" type="java.lang.String">
+      <value>TOP_TO_BOTTOM</value>
+      <defaultValue>TOP_TO_BOTTOM</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.EDGE_SETTINGS.MINIMUM_EDGE_DISTANCE" type="java.lang.String">
+      <value>15.0</value>
+      <defaultValue>15.0</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.SWIMLANES.TREAT_ROOT_GROUPS_AS_SWIMLANES" type="java.lang.String">
+      <value>false</value>
+      <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.GENERAL.SELECTED_ELEMENTS_INCREMENTALLY" type="java.lang.String">
+      <value>false</value>
+      <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.SWIMLANES.USE_ORDER_FROM_SKETCH" type="java.lang.String">
+      <value>false</value>
+      <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.GENERAL.LAYOUT_COMPONENTS_SEPARATELY" type="java.lang.String">
+      <value>false</value>
+      <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.GENERAL.MAXIMAL_DURATION" type="java.lang.String">
+      <value>5</value>
+      <defaultValue>5</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.SWIMLANES.SWIMLANE_SPACING" type="java.lang.String">
+      <value>0.0</value>
+      <defaultValue>0.0</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.LABELING.COMPACT_EDGE_LABEL_PLACEMENT" type="java.lang.String">
+      <value>true</value>
+      <defaultValue>true</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.GROUPING.GROUP_HORIZONTAL_COMPACTION" type="java.lang.String">
+      <value>GROUP_HORIZONTAL_COMPACTION_MAX</value>
+      <defaultValue>GROUP_HORIZONTAL_COMPACTION_MAX</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.LABELING.EDGE_LABELING" type="java.lang.String">
+      <value>EDGE_LABELING_NONE</value>
+      <defaultValue>EDGE_LABELING_NONE</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.GENERAL.NODE_TO_EDGE_DISTANCE" type="java.lang.String">
+      <value>15.0</value>
+      <defaultValue>15.0</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.RANKS.SCALE" type="java.lang.String">
+      <value>1.0</value>
+      <defaultValue>1.0</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.GENERAL.EDGE_TO_EDGE_DISTANCE" type="java.lang.String">
+      <value>15.0</value>
+      <defaultValue>15.0</defaultValue>
+    </entry>
+    <entry name="INCREMENTAL_HIERARCHIC.GENERAL.NODE_TO_NODE_DISTANCE" type="java.lang.String">
+      <value>30.0</value>
+      <defaultValue>30.0</defaultValue>
+    </entry>
+  </store>
+  <store name="TREE">
+    <entry name="TREE.HV.HORIZONTAL_SPACE" type="java.lang.String">
+      <value>10</value>
+      <defaultValue>10</defaultValue>
+    </entry>
+    <entry name="TREE.AR.ASPECT_RATIO" type="java.lang.String">
+      <value>1.41</value>
+      <defaultValue>1.41</defaultValue>
+    </entry>
+    <entry name="TREE.DIRECTED.ENFORCE_GLOBAL_LAYERING" type="java.lang.String">
+      <value>false</value>
+      <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="TREE.GENERAL.ROUTING_STYLE_FOR_NON_TREE_EDGES" type="java.lang.String">
+      <value>ROUTE_ORGANIC</value>
+      <defaultValue>ROUTE_ORGANIC</defaultValue>
+    </entry>
+    <entry name="TREE.DIRECTED.PORT_STYLE" type="java.lang.String">
+      <value>NODE_CENTER</value>
+      <defaultValue>NODE_CENTER</defaultValue>
+    </entry>
+    <entry name="TREE.AR.VERTICAL_SPACE" type="java.lang.String">
+      <value>10</value>
+      <defaultValue>10</defaultValue>
+    </entry>
+    <entry name="TREE.GENERAL.ACT_ON_SELECTION_ONLY" type="java.lang.String">
+      <value>false</value>
+      <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="TREE.DIRECTED.INTEGRATED_EDGE_LABELING" type="java.lang.String">
+      <value>false</value>
+      <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="TREE.AR.HORIZONTAL_SPACE" type="java.lang.String">
+      <value>10</value>
+      <defaultValue>10</defaultValue>
+    </entry>
+    <entry name="TREE.DIRECTED.BUS_ALIGNMENT" type="java.lang.String">
+      <value>ALIGNMENT_CENTER</value>
+      <defaultValue>ALIGNMENT_CENTER</defaultValue>
+    </entry>
+    <entry name="TREE.HV.VERTICAL_SPACE" type="java.lang.String">
+      <value>10</value>
+      <defaultValue>10</defaultValue>
+    </entry>
+    <entry name="TREE.DIRECTED.VERTICAL_ALIGNMENT" type="java.lang.String">
+      <value>ALIGNMENT_CENTER</value>
+      <defaultValue>ALIGNMENT_CENTER</defaultValue>
+    </entry>
+    <entry name="TREE.DIRECTED.INTEGRATED_NODE_LABELING" type="java.lang.String">
+      <value>false</value>
+      <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="TREE.DIRECTED.MINIMAL_LAYER_DISTANCE" type="java.lang.String">
+      <value>40</value>
+      <defaultValue>40</defaultValue>
+    </entry>
+    <entry name="TREE.DIRECTED.CHILD_PLACEMENT_POLICY" type="java.lang.String">
+      <value>SIBLINGS_ON_SAME_LAYER</value>
+      <defaultValue>SIBLINGS_ON_SAME_LAYER</defaultValue>
+    </entry>
+    <entry name="TREE.DIRECTED.MINIMAL_NODE_DISTANCE" type="java.lang.String">
+      <value>20</value>
+      <defaultValue>20</defaultValue>
+    </entry>
+    <entry name="TREE.DIRECTED.ORTHOGONAL_EDGE_ROUTING" type="java.lang.String">
+      <value>false</value>
+      <defaultValue>false</defaultValue>
+    </entry>
+    <entry name="TREE.DIRECTED.ORIENTATION" type="java.lang.String">
+      <value>LEFT_TO_RIGHT</value>
+      <defaultValue>LEFT_TO_RIGHT</defaultValue>
+    </entry>
+    <entry name="TREE.GENERAL.LAYOUT_STYLE" type="java.lang.String">
+      <value>DIRECTED</value>
+      <defaultValue>DIRECTED</defaultValue>
+    </entry>
+    <entry name="TREE.AR.USE_VIEW_ASPECT_RATIO" type="java.lang.String">
+      <value>true</value>
+      <defaultValue>true</defaultValue>
+    </entry>
+    <entry name="TREE.AR.BEND_DISTANCE" type="java.lang.String">
+      <value>20</value>
+      <defaultValue>20</defaultValue>
+    </entry>
   </store>
 </settings>

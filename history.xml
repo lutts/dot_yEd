@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <history>
   <entry>
-    <url>file:/home/lutts/cmake.graphml</url>
-    <mimeType>application-yfiles</mimeType>
-    <ioHint>GraphMLInput</ioHint>
-  </entry>
-  <entry>
-    <url>file:/home/lutts/embed/personal/android/android_display/pic/surfaceflinger.graphml</url>
-    <mimeType>application-yfiles</mimeType>
-    <ioHint>GraphMLInput</ioHint>
-  </entry>
-  <entry>
     <url>file:/home/lutts/idea/cmake/cmake.graphml</url>
     <mimeType>application-yfiles</mimeType>
     <ioHint>GraphMLOutput</ioHint>
@@ -49,5 +39,15 @@
     <url>file:/home/lutts/embed/tools/dev-tools/toolchain/autotools/autotools.graphml</url>
     <mimeType>application-yfiles</mimeType>
     <ioHint>GraphMLInput</ioHint>
+  </entry>
+  <entry>
+    <url>file:/home/lutts/Documents/uml_state.graphml</url>
+    <mimeType>application-yfiles</mimeType>
+    <ioHint>GraphMLInput</ioHint>
+  </entry>
+  <entry>
+    <url>file:/home/lutts/Documents/uml_activity.graphml</url>
+    <mimeType>application-yfiles</mimeType>
+    <ioHint>GraphMLOutput</ioHint>
   </entry>
 </history>
